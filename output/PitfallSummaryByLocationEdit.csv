@@ -1,0 +1,16 @@
+locationName,total_invert,invert_rich,pitfallnum_overall,numpitfall_array,dates
+1N,461,86,3,3,1
+1S,459,54,3,3,1
+2N,163,35,3,3,1
+2S,437,38,3,3,1
+3N,771,36,3,3,1
+3S,2322,32,3,3,1
+4N,353,55,3,3,1
+4S,1406,70,6,3,2
+5N,0,10,3,3,1
+5S,121,30,3,3,1
+BUGBAPI,164,34,2,1,2
+BUGMAN,152,17,1,1,1
+BUGPIMU,61,13,1,1,1
+BUGQUPA,51,21,1,1,1
+BUGQUTO,53,30,2,1,2
